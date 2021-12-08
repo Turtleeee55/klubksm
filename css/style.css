@@ -9,10 +9,6 @@ body{
     -webkit-text-size-adjust: 100%;
     font-size: 14px;
 }
-img {
-    max-width: 100%;
-    height: auto;
-}
 /***basics****/
 a,a:hover, a:focus, i{
     text-decoration: none;
