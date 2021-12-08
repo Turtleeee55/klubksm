@@ -9,6 +9,9 @@ body{
     -webkit-text-size-adjust: 100%;
     font-size: 14px;
 }
+#home{
+    width:100%;
+}
 /***basics****/
 a,a:hover, a:focus, i{
     text-decoration: none;
