@@ -16,6 +16,11 @@
 	box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+    color: var(--white);
+}
+
 html {
 	font-size: 62.5%;
 	scroll-behavior: smooth;
@@ -26,6 +31,7 @@ body {
 	font-family: 'Poppins', sans-serif;
 	min-height: 200vh;
 }
+
 
 .button {
 	color: var(--font);
